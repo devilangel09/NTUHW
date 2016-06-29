@@ -1,0 +1,101 @@
+body {
+    color: beige;
+    background: #fc7b0d;
+    font-family: cursive, DFKai-SB, BiauKai, arial;
+    ;
+    font-size: 1rem;
+    font-weight: 400;
+    font-style: normal;
+    text-align: left;
+    line-height: 1.1rem;
+}
+
+Strong {
+    font-weight: 900;
+}
+
+h1,
+h2 {
+    color: rgba(0, 0, 200, 0.7);
+    font-family: fantasy;
+    font-size: 2rem;
+    font-weight: 800;
+    font-style: normal;
+    text-align: justify;
+    letter-spacing: 0.3rem;
+    line-height: 0.5rem;
+}
+
+td[rowspan="2"] {
+    color: rgb(228, 224, 229);
+    text-align: center;
+    letter-spacing: 0.2rem;
+    font-family: DFKai-SB, BiauKai, arial;
+}
+
+td {
+    color: rgb(255, 255, 100);
+    font-family: DFKai-SB, BiauKai, arial;
+}
+
+td[colspan="2"] {
+    color: rgba(177, 61, 61, 1);
+    font-family: DFKai-SB, BiauKai, arial;
+}
+
+border {
+    color: #600610;
+}
+
+.circle {
+    width: 2em;
+    height: 2em;
+    border-radius: 100%;
+    font-size: 1em;
+    letter-spacing: normal;
+    color: #000000;
+    background: #efa71e;
+    text-align: center;
+    line-height: 2em;
+    font-family: arial;
+}
+
+.circle2 {
+    width: 2em;
+    height: 2em;
+    border-radius: 100%;
+    font-size: 1em;
+    letter-spacing: normal;
+    color: #fff;
+    background: #f00;
+    text-align: center;
+    line-height: 2em;
+    font-family: arial;
+}
+
+.word {
+    font-size: 1em;
+    color: #000000;
+    font-family: DFKai-SB, BiauKai, arial;
+    text-align: right;
+}
+
+.Square {
+    width: 40em;
+    height: 11rem;
+    border-radius: 20% color: #f1f8f0;
+    background: #faf6bf;
+    text-align: center;
+    line-height: 2.3em;
+    
+}
+
+
+.red {
+    color: red;
+    font-size: 1em;
+    font-family: DFKai-SB, BiauKai, arial;
+    text-align: center;
+    letter-spacing: -0.1em;
+    font-weight: 700;
+}
