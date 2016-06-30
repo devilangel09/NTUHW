@@ -81,8 +81,8 @@ border {
 }
 
 .Square {
-    width: 40em;
-    height: 11rem;
+    width: 20em;
+    height: 12rem;
     border-radius: 20% color: #f1f8f0;
     background: #faf6bf;
     text-align: center;
